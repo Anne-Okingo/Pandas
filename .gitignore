@@ -1,0 +1,26 @@
+# Virtual environment
+ex00/
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS files
+.DS_Store
+
+# Large data files (optional: track small ones only)
+*.csv
+*.txt
+
+household_power_consumption.txt
+Ecommerce_purchases.txt
+iris.csv
+
+# Logs
+*.log
