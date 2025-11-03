@@ -10,6 +10,7 @@ __pycache__/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+.Identifier
 
 # MacOS files
 .DS_Store
@@ -20,7 +21,12 @@ __pycache__/
 
 household_power_consumption.txt
 Ecommerce_purchases.txt
+Ecommerce_purchases
 iris.csv
+
+Ecommerce_purchases:Zone.Identifier
+household_power_consumption.txt:Zone.Identifier
+iris.csv:Zone.Identifier
 
 # Logs
 *.log
